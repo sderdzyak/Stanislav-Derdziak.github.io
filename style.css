@@ -28,7 +28,7 @@
    position: absolute;
    content: "";
    width: 65px;
-   background-color: #d8e6e4;
+   background-color: #bee026;
    aspect-ratio: 1/1;
    border-radius: 50%;
    top: 50%;
@@ -107,7 +107,7 @@ header .navigation a:hover{
  }
 
  .content .info h2 span{
-    color: #71e026;
+    color: #ebf5f4;
     font-size: 50px;
     font-weight: 500;
  }
