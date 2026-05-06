@@ -37,7 +37,7 @@ This is a multi-page landing-style website hosted on GitHub Pages. The homepage 
 - **HTML5** — semantic markup and page structure
 - **CSS3** — styling, layout, and responsive design (separate stylesheet per page)
 
-## 🚀 Running Locally
+## 🚀 Running Locally or via Live demo:
 
 Clone the repo and open `index.html` in any modern browser — no installation or build tools required:
 
@@ -47,6 +47,9 @@ cd Stanislav-Derdziak.github.io
 ```
 
 Then double-click `index.html` or open it in your browser.
+
+🔗 **Live demo:** [sderdzyak.github.io/Stanislav-Derdziak.github.io](https://sderdzyak.github.io/Stanislav-Derdziak.github.io/)
+ Click on the link `https://sderdzyak.github.io/Stanislav-Derdziak.github.io/`  to open it in your browser.
 
 ## 🙏 Credits & Inspiration
 
