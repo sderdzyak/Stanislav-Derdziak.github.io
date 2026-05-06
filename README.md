@@ -69,8 +69,6 @@ This project was built as a learning exercise, drawing on the following resource
 
 - **LinkedIn:** [stanislav-derdziak](https://www.linkedin.com/in/stanislav-derdziak-9aa543199/)
 - **GitHub:** [@sderdzyak](https://github.com/sderdzyak)
-- **HackerRank:** [stanislavderdzy1](https://www.hackerrank.com/profile/stanislavderdzy1)
-
 ---
 
 © Created by Stanislav Derdziak (SD)
