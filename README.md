@@ -49,6 +49,7 @@ cd Stanislav-Derdziak.github.io
 Then double-click `index.html` or open it in your browser.
 
 🔗 **Live demo:** [sderdzyak.github.io/Stanislav-Derdziak.github.io](https://sderdzyak.github.io/Stanislav-Derdziak.github.io/)
+
  Click on the link https://sderdzyak.github.io/Stanislav-Derdziak.github.io/ to open it in your browser.
 
 ## 🙏 Credits & Inspiration
